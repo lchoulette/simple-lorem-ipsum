@@ -1,0 +1,34 @@
+{
+  "extensionDescription": {
+    "message": "Simple Lorem Ipsum Generator permet de remplir les champs de formulaires à l'aide d'un menu contextuel ou d'un raccourci clavier (Ctrl+Shift+V).",
+    "description": "Description of the extension"
+  },
+  "extensionHotkey": {
+    "message": "Insère le texte 'Lorem Ipsum' dans le champ de saisie ayant actuellement le focus.",
+    "description": "Hotkey description of the extension"
+  },
+  "contextmenuInsertLoremIpsumSingleField": {
+    "message": "Insère Lorem Ipsum (Ctrl+Shift+V)",
+    "description": "Name of the context menu entry for single field"
+  },
+  "contextmenuInsertLoremIpsumAllFields": {
+    "message": "Remplire tous les champs de ce formulaire",
+    "description": "Name of the context menu entry for all fields"
+  },
+  "optionsLoremIpsumLabel": {
+    "message": "Veuillez saisir votre texte factice personnalisé ou laisser vide pour ou utiliser le Lorem Ipsum par défaut",
+    "description": "Lorem Ipsum label on options page"
+  },
+  "optionsStorageCannotSave": {
+    "message": "Impossible d'enregistrer les options. Vous devez permettre à Simple Lorem Ipsum d'écrire dans le localStorage pour enregistrer vos préférences.",
+    "description": "Cannot save options to storage"
+  },
+  "popupLinkHelp": {
+    "message": "Aide",
+    "description": "Link label for help"
+  },
+  "popupLinkBugs": {
+    "message": "Bugs",
+    "description": "Link label for bugs"
+  }
+}
