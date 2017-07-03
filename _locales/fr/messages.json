@@ -4,7 +4,7 @@
     "description": "Description of the extension"
   },
   "extensionHotkey": {
-    "message": "Insérer le texte 'Lorem Ipsum' dans le champ de saisie ayant le focus.",
+    "message": "Insère le texte 'Lorem Ipsum' dans le champ de saisie ayant le focus.",
     "description": "Hotkey description of the extension"
   },
   "contextmenuInsertLoremIpsumSingleField": {
